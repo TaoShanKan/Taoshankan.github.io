@@ -6,7 +6,7 @@
       <title>测试文章</title>
       <link href="/2018/04/08/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
       <url>/2018/04/08/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-      <content type="html"><![CDATA[<p>以上是摘要<br><a id="more"></a><br>以下是余下全文</p><p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="http://music.163.com/outchain/player?type=2&id=32192436&auto=1&height=32"></iframe><br>//其中的width=298 height=52 均改为0就看不到了，依然可以播放音乐</p>]]></content>
+      <content type="html"><![CDATA[<p>尼采说：</p><blockquote><p>Was mich <em>nicht</em> umbringt, macht mich <strong>stärker</strong>.</p></blockquote><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="http://music.163.com/outchain/player?type=2&id=32192436&auto=1&height=32"></iframe><!-- //其中的width=298 height=52 均改为0就看不到了，依然可以播放音乐 -->]]></content>
       
       
         <tags>
